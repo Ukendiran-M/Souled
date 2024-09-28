@@ -1,2 +1,2 @@
 # Souled
-Hosting link https://souled.vercel.app/
+Souled is an E-commerce platform which used for selling sports clothing.
